@@ -1,1 +1,1 @@
-# assignment-3.4
+App Name: Beautified Pixels
